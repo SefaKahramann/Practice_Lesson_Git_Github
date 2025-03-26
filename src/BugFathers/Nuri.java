@@ -27,6 +27,13 @@ public class Nuri {
         System.out.println("selamlarr...");
         System.out.println("selamlarr...");
 
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
+
     }
 
 }
