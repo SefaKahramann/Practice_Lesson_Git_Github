@@ -19,6 +19,13 @@ public class Nuri {
         String y = "berk ";
 
         System.out.println("Hello World 1 :) ");
+
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
+        System.out.println("conflict");
     }
 
 }
